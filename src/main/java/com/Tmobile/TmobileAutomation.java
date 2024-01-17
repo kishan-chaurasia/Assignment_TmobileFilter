@@ -1,4 +1,4 @@
-package com.seleniumpractice;
+package com.Tmobile;
 
 import java.time.Duration;
 
